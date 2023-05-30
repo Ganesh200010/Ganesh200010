@@ -1,6 +1,10 @@
 ## Hi there,I am Sangam Ganesh Babu  👋
 
 Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imagination.This is a place where you can let your imagination run wild and unleash your coding skills.Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects. I enjoy tweaking and tinkering with the gadgets I own and enjoys a lot by playing with new-apps.
+
+
+## donr know
+
 <!--
 **Ganesh200010/Ganesh200010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
