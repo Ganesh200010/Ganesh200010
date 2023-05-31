@@ -14,7 +14,7 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
 <a href="https://www.facebook.com/ganesh.sangam.003" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="https://www.facebook.com/ganesh.sangam.003"/></a>
 <a href="https://www.instagram.com/ganesh.7._/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/ganesh.7._/"  /></a>
   
-<a href="Ganeshsangam#6728" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Ganeshsangam#6728" height="30" width="40" /></a>
+<a href="https://discord.com/Ganeshsangam#6728" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.com/Ganeshsangam#6728" /></a>
 </p>
 </p>
 
