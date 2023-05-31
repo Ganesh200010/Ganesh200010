@@ -33,7 +33,7 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
   <img width="13%" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
-## ☁️ Hosting/SaaS/IDEs/Editors
+## ☁️ Hosting/IDEs/Editors
 
 <p align="left">
   <img  alt="Github Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
