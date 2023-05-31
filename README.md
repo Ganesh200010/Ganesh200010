@@ -9,6 +9,9 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
 
 ## 👥 Connect With Me
 
+<p align="left">
+  <a herf="https://www.facebook.com/ganesh.sangam.003">
+    <img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/><a>
 
 
 ## 💫Liitle Bit More About Me
@@ -18,13 +21,7 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
 
 
 
-## 📊 Github Status
 
-<p align="left">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Ganesh200010&show_icons=true&theme=radical"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh200010&hide_progress=true"/>
-</p>
-  
 
 ## 💻 Skills
 
@@ -44,6 +41,13 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
   <img  alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img width="13%" alt="Apache" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
   <img width="13%" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+## 📊 Github Status
+
+<p align="left">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Ganesh200010&show_icons=true&theme=radical"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh200010&hide_progress=true"/>
 </p>
   
 
