@@ -1,4 +1,4 @@
-# Hi there,I am [Sangam Ganesh Babu ](https://ganesh200010.github.io/ganesh/)👋
+# Hi there, I am [Sangam Ganesh Babu ](https://ganesh200010.github.io/ganesh/)👋 
 
 
 Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imagination.This is a place where you can let your imagination run wild and unleash your coding skills.Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects. I enjoy tweaking and tinkering with the gadgets I own and enjoys a lot by playing with new-apps.
@@ -14,6 +14,10 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
 <a href="https://discord.com/channels/@Ganeshsangam#6728" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.com/channels/@Ganeshsangam#6728" /></a>
 </p>
 </p>
+
+## 💫 Liitle Bit More About Me
+
+📫 How to reach me? <sangamganesh@duck.com>
 
 ## 💻 Skills
 
