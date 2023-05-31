@@ -12,7 +12,7 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
 <p align="left">
   <a href="https://www.linkedin.com/in/ganesh-babu-sangam" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ganesh-babu-sangam" /></a>
 <a href="https://www.facebook.com/ganesh.sangam.003" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="https://www.facebook.com/ganesh.sangam.003"/></a>
-<a href="https://instagram.com/https://www.instagram.com/ganesh.7._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ganesh.7._/"  /></a>
+<a href="https://www.instagram.com/ganesh.7._/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/ganesh.7._/"  /></a>
 </p>
 
 ## 💫Liitle Bit More About Me
