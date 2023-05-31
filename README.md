@@ -12,6 +12,7 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
 <p align="left">
   <a herf="https://www.facebook.com/ganesh.sangam.003">
     <img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/><a>
+</p>
 
 
 ## 💫Liitle Bit More About Me
