@@ -1,9 +1,6 @@
 # Hi there,I am [Sangam Ganesh Babu ](https://ganesh200010.github.io/ganesh/)👋
 
 
-
-
-
 Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imagination.This is a place where you can let your imagination run wild and unleash your coding skills.Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects. I enjoy tweaking and tinkering with the gadgets I own and enjoys a lot by playing with new-apps.
 
 
@@ -18,15 +15,6 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
 </p>
 </p>
 
-## 💫Liitle Bit More About Me
-
-
-
-
-
-
-
-
 ## 💻 Skills
 
 <p align="left">
@@ -38,13 +26,21 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
   <img  alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img  alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img  alt="nVIDIA" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/>
-  
   <img  alt="adonisjs" src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white"/>
   <img  alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  
   <img  alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img width="13%" alt="Apache" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
   <img width="13%" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+## ☁️ Hosting/SaaS/IDEs/Editors
+
+<p align="left">
+  <img  alt="Github Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  <img  alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+  <img  alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img  alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img  alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ## 📊 Github Status
