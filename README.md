@@ -19,7 +19,7 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
 
 📫 How to reach me? <sangamganesh@duck.com>
 
-## 💻 Skills
+## 💻 Tech Stack:
 
 <p align="left">
   
