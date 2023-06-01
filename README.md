@@ -53,8 +53,8 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
 ## 📊 Github Status
 
 <p align="left">
-  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh200010&show_icons=true&theme=radical"/>
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Ganesh200010&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh200010&hide_progress=true"/>
 
 </p>
   
