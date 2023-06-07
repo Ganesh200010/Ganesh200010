@@ -13,7 +13,7 @@ Howdy, I'm Sangam Ganesh babu. I'm a passionate Tech Lover Inspired by Imaginati
   
 <a href="https://discord.com/channels/@Ganeshsangam#6728" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.com/channels/@Ganeshsangam#6728" /></a>
 </p>
-</p>
+
 
 ## 💫 Liitle Bit More About Me
 
